@@ -4,6 +4,10 @@
 
 Open source full-stack LLM chat application. Run it locally, host it at your house, or in the cloud.
 
+## Is there a hosted version online?
+
+Yes at [chat.zdifferentiator.com](https://chat.zdifferentiator.com).
+
 ## Can I access the API for free without even using an API key?
 
 Sure! The service is running in an apartment in San Francisco. 
@@ -16,10 +20,6 @@ Just hit https://www.exactchange.network/llm/chat with the following payload:
   input: string;
 }
 ```
-
-## Is there a hosted version online?
-
-Yes at [chat.zdifferentiator.com](https://chat.zdifferentiator.com).
 
 ## How can I run this on my own computer?
 
