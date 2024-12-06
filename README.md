@@ -59,6 +59,8 @@ From project root: `cd ./client`
 
 9. Coming soon: Setup SSL, domain name, and port forwards for others to access your AI chat!
 
+10. Coming soon: Deploy the React front-end somewhere (or build and deploy with the server)
+
 -----
 
 This repo includes a complete deploy-ready Node server and unbuilt React client.
