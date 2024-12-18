@@ -82,7 +82,3 @@ This repo includes a complete deploy-ready Node server and unbuilt React client.
 The backend relies on [Ollama](https://ollama.com/) - self-host popular models like Mistral, Llama, and Gemma!
 
 The front-end is a [create-react-app](https://www.npmjs.com/package/create-react-app) - easily host on PaaS like Vercel or Heroku, or build it and deploy with your server!
-
------
-
-Questions? hello@bennyschmidt.com 
